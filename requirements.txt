@@ -1,0 +1,7 @@
+flask
+gunicorn
+mysql-connector-python
+python-dotenv
+waitress
+flask-cors
+flask-wtf
